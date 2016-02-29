@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="java">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/org/slf4j/site/apidocs" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/site/testapidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/org/slf4j/integration/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/jcl-over-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/jcl-over-slf4j/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/jul-to-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/jul-to-slf4j/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/log4j-over-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/log4j-over-slf4j/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/osgi-over-slf4j/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-android/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-android/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-api/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-api/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-ext/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-ext/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-jcl/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-jcl/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-jdk14/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-jdk14/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-log4j12/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-log4j12/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-migrator/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-migrator/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-nop/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-nop/src/test/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-simple/src/main/java" />
+      <root url="file://$PROJECT_DIR$/org/slf4j/slf4j-simple/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
